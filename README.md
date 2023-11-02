@@ -11,9 +11,11 @@
 
 # Matías Agustín Arriola
 
-## Tecnologías y herramientas
+### Tecnologías
 ![Stack-de-tecnologías](https://skillicons.dev/icons?i=html,css,bootstrap,cs,dotnet,java,mysql)
-![Stack-de-Herramientas](https://skillicons.dev/icons?i=postman,git,wordpress)
+
+### Herramientas
+![Stack-de-Herramientas](https://skillicons.dev/icons?i=postman,git,wordpress&perline=3)
 
 
 
