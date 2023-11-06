@@ -3,8 +3,8 @@
 </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/matias-arriola/"> <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>
-    <a href="mailto:arriolamattiasgmail.com"> <img alt="Gmail" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/email-red?style=for-the-badge&logo=gmail&logoColor=%23ffffff"></a>
+    <a href="https://www.linkedin.com/in/matias-arriola/"> <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:arriolamattiasgmail.com"> <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 [comment]: <> (<a href="portfolio.com.ar"> <img src="https://custom-icon-badges.demolab.com/badge/Portafolio-27AE60?style=for-the-badge&logo=link-external"></a>)
